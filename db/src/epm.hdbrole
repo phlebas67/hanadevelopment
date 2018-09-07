@@ -1,0 +1,10 @@
+{
+	"role":{
+		"name": "epm_ina",
+		"schema_privileges": [{
+		   "privileges": ["SELECT METADATA", 
+		    			  "SELECT"
+		   ]
+		}]
+      }
+}
